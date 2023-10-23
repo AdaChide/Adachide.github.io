@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+Hi, my name is Adaeze, Im an IOT and cybersecurity student at EMU.
